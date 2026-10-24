@@ -1,6 +1,6 @@
 # Maya — Online Dating Platform
 
-Maya is an online dating and matchmaking platform built as a capstone project.
+Maya is an online dating and matchmaking platform / Web App
 
 ## Screenshots
 
